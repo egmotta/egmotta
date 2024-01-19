@@ -1,16 +1,18 @@
-### Hi there 👋
+ Hello 👋
+ I'm Guilherme Motta, a constant learner in the field of data and programming languages.
 
-<!--
-**egmotta/egmotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills and Competencies
+Data Exploration:
+Python, SQL, Power BI, Excel.
 
-Here are some ideas to get you started:
+Continuous Learning:
+Committed to enhancing skills in data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Projects
+Data Exploration with Python:
+Practical projects and challenges to sharpen my skills.
+
+Data Visualization with Power BI:
+Developing interactive dashboards.
+
+LinkedIn: <a href="your-linkedin-link">https://www.linkedin.com/in/enioguilhermemotta/</a>
